@@ -5,8 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 
-g=input('请输入股票代码:_')
-
+g=input('请输入股票代码:_') 
 import tushare as ts
 import pandas as pd
 import matplotlib.pyplot as plt
